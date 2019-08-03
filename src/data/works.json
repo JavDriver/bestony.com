@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "logoly",
+      "title": "Logoly",
+      "link": "https://github.com/bestony/logoly",
+      "license": "WTFPL",
+      "description": "一个 PornHub 风格的 Logo 生成器",
+      "star": "3K+"
+    },
+    {
+      "id": "lcbot",
+      "title": "LCBot",
+      "link": "https://github.com/lctt/lcbot",
+      "license": "MIT",
+      "description": "一个基于 wxpy 开发的微信机器人，曾登陆 Github Trending",
+      "star": "400+"
+    },
+    {
+      "id": "grank",
+      "title": "Grank",
+      "link": "https://github.com/lctt/grank",
+      "license": "GPL-3.0",
+      "description": "Github 项目活跃度分析工具,曾用于 2018 年中国开源年会 COSCON",
+      "star": "100+"
+    },
+    {
+      "id": "opensourcemenu",
+      "title": "OpenSource Menu",
+      "link": "https://github.com/bestony/OpenSourceMenu",
+      "license": "AGPL-3.0",
+      "description": "一个用于查找本地开源社区的工具",
+      "star": "3K+"
+    },
+    {
+      "id": "wxsubscribe",
+      "title": "WX-Subscribe",
+      "link": "https://github.com/bestony/wx-subscribe",
+      "license": "GPL-2.0",
+      "description": "微信支付 · 付费订阅插件 ",
+      "star": "50+"
+    },
+    {
+      "id": "minapp-foodmap",
+      "title": "美食地图小程序",
+      "link": "https://github.com/CloudKits/miniprogram-foodmap",
+      "license": "Apache",
+      "description": "微信小程序 · 美食地图模板",
+      "star": "50+"
+    },
+    {
+      "id": "gitbook-template",
+      "title": "Gitbook-auto-deploy-template",
+      "link": "https://github.com/bestony/gitbook-auto-deploy-template",
+      "license": "MIT",
+      "description": "Gitbook 自动 Travis 部署模板，能够实现基于 Travis 的自动部署模板",
+      "star": "20+"
+    },
+    {
+      "id": "djangodocs",
+      "title": "djangodocs.com",
+      "link": "https://github.com/bestony/djangdocs.com",
+      "license": "NO",
+      "description": "Django 文档翻译团队官方网站",
+      "star": "3+"
+    }
+  ]
+}

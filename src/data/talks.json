@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "gdg_talk",
+      "title": "Logoly 的成长故事",
+      "date": "2019-05-07",
+      "link": "https://www.ixiqin.com/2019/05/2019-may-i-share-about-logoly-gdg-activities-in-shenzhen/",
+      "location": "深圳"
+    },
+    {
+      "id": "coscup_grank",
+      "title": "从 GRANK 到 GITRANK ，我们是这样针对开源项目建模的",
+      "date": "2019-08-18",
+      "link": "https://coscup.org/2019/programs/d4652205-151a-4122-960f-4ec5060d4715",
+      "location": "台北"
+    },
+    {
+      "id": "coscup_logoly",
+      "title": "一个 PornHub 周边项目的诞生和成长",
+      "date": "2019-08-18",
+      "link": "https://coscup.org/2019/programs/366dc84d-60b3-4f2e-8d4d-a68a9a2fcebc",
+      "location": "台北"
+    }
+  ]
+}

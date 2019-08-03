@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "easywpbook",
+      "image": "/images/easywpbook.jpg",
+      "title": "人人都能学会的 WordPress 实战课",
+      "description": "一本从入门到精通的 WordPress 电子书",
+      "website": "https://www.easywpbook.com"
+    },
+    {
+      "id": "thewriter",
+      "image": "/images/writer.jpg",
+      "title": "程序员的写作课",
+      "description": "给程序员的写作课,帮助你快速掌握实用写作。",
+      "website": "https://www.thewriter.dev"
+    },
+    {
+      "id": "self-optimize",
+      "image": "/images/self-optimize.jpg",
+      "title": "自我量化指南",
+      "description": "一本可以帮助你更快的完成自我量化的电子书",
+      "website": "https://ziwolianghua.com/"
+    }
+  ]
+}
